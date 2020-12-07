@@ -1,0 +1,1 @@
+awk '{gsub("chr","",$5)} 1' sample.maf > temp.maf
