@@ -6,3 +6,6 @@ All samples are open access obtained from (The Cancer Genome Atlas Program)[http
 gzip -d ./sample.maf.gz
 ```
 
+Starting Position vs. Chromosome
+
+![Starting Position vs. Chromosome](/pos_chr.png)

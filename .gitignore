@@ -1,3 +1,5 @@
+*.maf
+
 # History files
 .Rhistory
 .Rapp.history
