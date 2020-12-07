@@ -1,7 +1,7 @@
 library(ggplot2)
 
 # Setup
-maf_data <- read.delim("~/Workspace/ggplot2-maf/sorted.maf", 
+maf_data <- read.delim("~/Workspace/ggplot2-maf/inputs/sorted.maf", 
                        header=TRUE, 
                        comment.char="#",
                        stringsAsFactors=FALSE)

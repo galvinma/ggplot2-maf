@@ -8,4 +8,4 @@ gzip -d ./sample.maf.gz
 
 #### Visualization
 
-![Starting Position vs. Chromosome](/chr_pos.png)
+![Starting Position vs. Chromosome](/images/chr_pos.png)
